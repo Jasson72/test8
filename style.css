@@ -9,7 +9,7 @@ body{
 }
 
 .header {
-    font-size: 120%;
+    font-size: 200%;
 }
 
 ul {
@@ -19,7 +19,7 @@ ul {
 }
 
 li {
-    font-size: 20px;
+    font-size: 40%;
     display: inline-block;
     margin-top: 10px;
 }
